@@ -5,7 +5,7 @@ Implement a simple example for JSON Web Token Authentication & Authorization usi
 ## Required stuff to run
 
 - Text editor, you can use your favorite.
-- DotNet 6 SDK. Download here (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)[https://dotnet.microsoft.com/en-us/download/dotnet/6.0]
+- DotNet 6 SDK. Download here https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ## How to install
 
