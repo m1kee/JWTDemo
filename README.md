@@ -1,8 +1,8 @@
-#JWT Demo
+# JWT Demo
 
 Implement JSON Web Token Authentication & Authorization using .NET 6 API.
 
-##How to install
+## How to install
 
 - Clone repo using `git clone https://github.com/m1kee/JWTDemo.git`.
 - Open a terminal inside cloned folder.
